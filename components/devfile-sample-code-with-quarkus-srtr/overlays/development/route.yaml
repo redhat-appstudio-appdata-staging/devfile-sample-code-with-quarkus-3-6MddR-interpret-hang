@@ -8,7 +8,7 @@ metadata:
     app.kubernetes.io/managed-by: kustomize
     app.kubernetes.io/name: devfile-sample-code-with-quarkus-srtr
     app.kubernetes.io/part-of: devfile-sample-code-with-quarkus-3
-  name: devfile-sample-code-with-syql
+  name: devfile-sample-code-with-ftst
 spec:
   path: /
   port:
